@@ -2,6 +2,6 @@
 <head><title>ATIVIDADE DE VERSIONAMENTO</title>
 </head>
 <body>
-<h1> Versionamento </h1>
+<h1> GIT </h1>
 </body>
 <html/>
